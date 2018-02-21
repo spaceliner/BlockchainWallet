@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Wallet.Views.Exchange">
+    <ContentPage.Content>
+        <StackLayout Padding="10">
+            <Label x:Name="InputLabel" Text="Input"></Label>
+
+
+            <Entry x:Name="input" Placeholder="input value"></Entry>
+            <Picker x:Name="picker" Title="Select a Currency" SelectedIndexChanged="OnPickerSelectedIndexChanged">
+                <Picker.ItemsSource>
+                    <x:Array Type="{x:Type x:String}">
+                        <x:String>USD</x:String>
+                        <x:String>JPY</x:String>
+                        <x:String>CNY</x:String>
+                        <x:String>SGD</x:String>
+                        <x:String>HKD</x:String>
+                        <x:String>CAD</x:String>
+                        <x:String>NZD</x:String>
+                        <x:String>AUD</x:String>
+                        <x:String>CLP</x:String>
+                        <x:String>GBP</x:String>
+                        <x:String>DKK</x:String>
+                        <x:String>SEK</x:String>
+                        <x:String>ISK</x:String>
+                        <x:String>GHF</x:String>
+                        <x:String>BRL</x:String>
+                        <x:String>EUR</x:String>
+                        <x:String>RUB</x:String>
+                        <x:String>PLN</x:String>
+                        <x:String>THB</x:String>
+                        <x:String>KRW</x:String>
+                        <x:String>TWD</x:String>
+                    </x:Array>
+                </Picker.ItemsSource>
+            </Picker>
+            <Button x:Name="trans" Text="-->" Clicked="Trans_ButtonClicked"></Button>
+            <Entry x:Name="output" IsEnabled="False"></Entry>
+
+
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

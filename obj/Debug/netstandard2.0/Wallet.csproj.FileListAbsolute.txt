@@ -1,0 +1,17 @@
+D:\UnitecStudyDoc\Android Development\wallet\Wallet\Wallet\bin\Debug\netstandard2.0\Wallet.deps.json
+D:\UnitecStudyDoc\Android Development\wallet\Wallet\Wallet\bin\Debug\netstandard2.0\Wallet.dll
+D:\UnitecStudyDoc\Android Development\wallet\Wallet\Wallet\bin\Debug\netstandard2.0\Wallet.pdb
+D:\UnitecStudyDoc\Android Development\wallet\Wallet\Wallet\obj\Debug\netstandard2.0\Wallet.csproj.CoreCompileInputs.cache
+D:\UnitecStudyDoc\Android Development\wallet\Wallet\Wallet\obj\Debug\netstandard2.0\Wallet.App.xaml.g.cs
+D:\UnitecStudyDoc\Android Development\wallet\Wallet\Wallet\obj\Debug\netstandard2.0\Wallet.Views.AboutPage.xaml.g.cs
+D:\UnitecStudyDoc\Android Development\wallet\Wallet\Wallet\obj\Debug\netstandard2.0\Wallet.Views.ItemDetailPage.xaml.g.cs
+D:\UnitecStudyDoc\Android Development\wallet\Wallet\Wallet\obj\Debug\netstandard2.0\Wallet.Views.ItemsPage.xaml.g.cs
+D:\UnitecStudyDoc\Android Development\wallet\Wallet\Wallet\obj\Debug\netstandard2.0\Wallet.Views.MainPage.xaml.g.cs
+D:\UnitecStudyDoc\Android Development\wallet\Wallet\Wallet\obj\Debug\netstandard2.0\Wallet.Views.NewItemPage.xaml.g.cs
+D:\UnitecStudyDoc\Android Development\wallet\Wallet\Wallet\obj\Debug\netstandard2.0\Wallet.AssemblyInfoInputs.cache
+D:\UnitecStudyDoc\Android Development\wallet\Wallet\Wallet\obj\Debug\netstandard2.0\Wallet.AssemblyInfo.cs
+D:\UnitecStudyDoc\Android Development\wallet\Wallet\Wallet\obj\Debug\netstandard2.0\Wallet.dll
+D:\UnitecStudyDoc\Android Development\wallet\Wallet\Wallet\obj\Debug\netstandard2.0\Wallet.pdb
+D:\UnitecStudyDoc\Android Development\wallet\Wallet\Wallet\obj\Debug\netstandard2.0\Wallet.csprojResolveAssemblyReference.cache
+D:\UnitecStudyDoc\Android Development\wallet\Wallet\Wallet\obj\Debug\netstandard2.0\Wallet.Views.Exchange.xaml.g.cs
+D:\UnitecStudyDoc\Android Development\wallet\Wallet\Wallet\obj\Debug\netstandard2.0\Wallet.Views.CreateAccount.xaml.g.cs
